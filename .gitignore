@@ -1,0 +1,11 @@
+# Compiled object files
+*.o
+
+# Debug and Release directories
+build/Desktop_x86_darwin_generic_mach_o_64bit-Debug/
+Release/
+
+# Generated MOC, resource and UI files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
