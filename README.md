@@ -26,7 +26,7 @@ Qt 5.15 or later
 # Example for Ubuntu
 sudo apt-get install qt
 # Example for Mac
-brew inatll qt-mysql
+brew install qt-mysql
 ```
 #### Building the Project
 ```
